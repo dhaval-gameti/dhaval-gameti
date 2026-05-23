@@ -1,14 +1,15 @@
-# 👋 Hi, I'm Dhaval
+
+# 👋 Hi, I'm Dhaval Gameti
 
 **Solo Developer | Tech Explorer | Builder by Habit**
 
-I'm a self-taught developer from Gujarat, India. Coming from an arts background, I transitioned into programming through hands-on learning and real-world projects. I'm passionate about building practical, scalable tech products — from the ground up.
+I'm a self-taught developer from Gujarat, India. My name is **Dhaval Gameti**. Coming from an arts background, I transitioned into programming through hands-on learning and real-world projects. I'm passionate about building practical, scalable tech products — from the ground up.
 
 ---
 
 ## 📱 How It All Started
 
-I wrote my first line of code (**"Hello, World" in Python**) on a mobile phone. That humble beginning sparked everything else. Today, I work across multiple languages and platforms with a focus on clean code and proper structure.
+I wrote my first line of code — **"Hello, World" in Python** — on a mobile phone. That humble beginning sparked everything else. Today, I work across multiple languages and platforms with a focus on clean code and proper structure.
 
 ---
 
@@ -24,7 +25,7 @@ I wrote my first line of code (**"Hello, World" in Python**) on a mobile phone. 
 ## 💻 Workflow
 
 - **On PC:** VS Code, Python IDEs, Android Studio, Cursor  
-- **On Mobile (Termux & editors):** Pydroid 3, Acode Editor, Replit, Google Colab — because coding can start anywhere.
+- **On Mobile:** Termux, Pydroid 3, Acode Editor, Replit, Google Colab — because coding can start anywhere.
 
 ---
 
@@ -42,27 +43,32 @@ A data visualization and business intelligence tool featuring:
 Designed to optimize traffic flow using intelligent decision-making.
 
 ### 🔹 LowMind  
-My Deeplarnig Framework 
-use:
-```
+My **Deep Learning Framework**  
+```bash
 pip install lowmind
 ```
-### 🔹 LiteCV  
-My own **open-source computer vision library for Python**. Built to make CV tasks lightweight, accessible, and easy to integrate into other projects.
-use:
-```
+
+🔹 LiteCV
+
+My open-source computer vision library for Python. Built to make CV tasks lightweight, accessible, and easy to integrate into other projects.
+
+```bash
 pip install litecv
 ```
----
-
-## 🎯 Interests
-
-- Data Visualization  
-- Artificial Intelligence  
-- System Design  
-- Building real-world, usable products  
-- Open Source (creating and maintaining my own packages)
 
 ---
 
-📌 *Always learning. Always building.*  
+🎯 Interests
+
+· Data Visualization
+· Artificial Intelligence
+· System Design
+· Building real-world, usable products
+· Open Source (creating and maintaining my own packages)
+
+---
+
+📌 Always learning. Always building.
+— Dhaval Gameti
+
+```
