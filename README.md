@@ -1,30 +1,68 @@
-👋 Hi, I'm Dhaval  
-🚀 Solo Developer | Tech Explorer | Builder by Habit  
+# 👋 Hi, I'm Dhaval
 
-I’m a self-taught developer from Gujarat with a strong interest in building practical, scalable tech products. I come from an arts background but transitioned into programming through hands-on learning and real projects.
+**Solo Developer | Tech Explorer | Builder by Habit**
 
-## 🧠 Skills & Technologies  
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Currently Learning:** Rust  
-- **Development Style:** Solo development, product-focused, problem-solving mindset  
-- **Workflow:** Mobile-first coding using Termux, Pydroid 3, Acode Editor, Replit, and Google Colab  
+I'm a self-taught developer from Gujarat, India. Coming from an arts background, I transitioned into programming through hands-on learning and real-world projects. I'm passionate about building practical, scalable tech products — from the ground up.
 
-## 🛠️ Projects  
-### **Vedra BI**  
-A data visualization and business intelligence tool with:  
+---
+
+## 📱 How It All Started
+
+I wrote my first line of code (**"Hello, World" in Python**) on a mobile phone. That humble beginning sparked everything else. Today, I work across multiple languages and platforms with a focus on clean code and proper structure.
+
+---
+
+## 🧠 Languages & Technologies
+
+- **Languages:** Python, JavaScript, HTML, CSS, Kotlin, Java, Dart (Flutter), C++
+- **Frameworks & Libraries:** Flutter, React, LiteCV *(my own computer vision library for Python — open source)*
+- **Currently Learning:** Rust
+- **Development Style:** Solo, product-focused, problem-solving mindset
+
+---
+
+## 💻 Workflow
+
+- **On PC:** VS Code, Python IDEs, Android Studio, Cursor  
+- **On Mobile (Termux & editors):** Pydroid 3, Acode Editor, Replit, Google Colab — because coding can start anywhere.
+
+---
+
+## 🛠️ My Projects
+
+### 🔹 Vedra BI  
+A data visualization and business intelligence tool featuring:  
 - AI-powered insights  
 - Full user customization  
 - Support for very large datasets (GB-scale)  
 - Focus on affordability and performance  
-*(Actively developed for ~9 months, nearing completion)*  
+*(Actively developed for ~9 months, nearing completion)*
 
-### **AI-based Traffic Control System**  
+### 🔹 AI-based Traffic Control System  
 Designed to optimize traffic flow using intelligent decision-making.
 
-## 🎯 Interests  
+### 🔹 LowMind  
+My Deeplarnig Framework 
+use:
+```
+pip install lowmind
+```
+### 🔹 LiteCV  
+My own **open-source computer vision library for Python**. Built to make CV tasks lightweight, accessible, and easy to integrate into other projects.
+use:
+```
+pip install litecv
+```
+---
+
+## 🎯 Interests
+
 - Data Visualization  
 - Artificial Intelligence  
 - System Design  
-- Building real-world usable products  
+- Building real-world, usable products  
+- Open Source (creating and maintaining my own packages)
 
-📌 *Always learning, always building.*
+---
+
+📌 *Always learning. Always building.*  
