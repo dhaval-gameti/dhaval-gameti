@@ -1,4 +1,4 @@
-
+![Dhaval Gameti](./images/dhaval.jpg)
 # 👋 Hi, I'm Dhaval Gameti
 
 **Solo Developer | Tech Explorer | Builder by Habit**
