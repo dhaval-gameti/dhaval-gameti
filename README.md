@@ -71,4 +71,3 @@ pip install litecv
 📌 Always learning. Always building.
 — Dhaval Gameti
 
-```
