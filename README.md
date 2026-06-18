@@ -1,73 +1,100 @@
+# Dhaval Gameti
 
-# 👋 Hi, I'm Dhaval Gameti
-
-**Solo Developer | Tech Explorer | Builder by Habit**
-
-I'm a self-taught developer from Gujarat, India. My name is **Dhaval Gameti**. Coming from an arts background, I transitioned into programming through hands-on learning and real-world projects. I'm passionate about building practical, scalable tech products — from the ground up.
+**Full-Stack Developer | AI & Computer Vision Specialist | Open Source Contributor**
 
 ---
 
-## 📱 How It All Started
+## 🎯 About Me
 
-I wrote my first line of code — **"Hello, World" in Python** — on a mobile phone. That humble beginning sparked everything else. Today, I work across multiple languages and platforms with a focus on clean code and proper structure.
+I'm a self-taught full-stack developer from **Gujarat, India**, specializing in **Data Visualization**, **Artificial Intelligence**, and **System Design**. With a background in arts, I've transitioned into tech through hands-on learning and real-world problem-solving. I'm passionate about building scalable, user-focused products that make a real-world impact.
 
----
-
-## 🧠 Languages & Technologies
-
-- **Languages:** Python, JavaScript, HTML, CSS, Kotlin, Java, Dart (Flutter), C++
-- **Frameworks & Libraries:** Flutter, React, LiteCV *(my own computer vision library for Python — open source)*
-- **Currently Learning:** Rust
-- **Development Style:** Solo, product-focused, problem-solving mindset
+My coding journey started with "Hello, World" in Python on a mobile phone—a humble beginning that led to mastering multiple technologies and frameworks across web, mobile, and ML domains.
 
 ---
 
-## 💻 Workflow
+## 💼 Core Competencies
 
-- **On PC:** VS Code, Python IDEs, Android Studio, Cursor  
-- **On Mobile:** Termux, Pydroid 3, Acode Editor, Replit, Google Colab — because coding can start anywhere.
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, JavaScript, TypeScript, HTML5, CSS3, Kotlin, Java, Dart, C++ |
+| **Frameworks & Libraries** | React, Flutter, Django, FastAPI, Three.js, Vanta.js |
+| **Specializations** | Data Visualization, Machine Learning, Computer Vision, System Architecture |
+| **Tools & Platforms** | VS Code, Android Studio, Cursor IDE, Docker, Git, GitHub |
+| **Development Approach** | Agile, product-focused, problem-solving mindset, solo development |
+
+**Currently Learning:** Rust
 
 ---
 
-## 🛠️ My Projects
+## 🚀 Featured Projects
 
-### 🔹 Vedra BI  
-A data visualization and business intelligence tool featuring:  
-- AI-powered insights  
-- Full user customization  
-- Support for very large datasets (GB-scale)  
-- Focus on affordability and performance  
-*(Actively developed for ~9 months, nearing completion)*
+### 📊 **Vedra BI**
+*Advanced Data Visualization & Business Intelligence Platform*
+- AI-powered insights and predictive analytics
+- Fully customizable dashboards and reports
+- GB-scale dataset support with optimized performance
+- Focus on affordability without compromising functionality
+- **Status:** Actively developed (~9 months in, nearing completion)
 
-### 🔹 AI-based Traffic Control System  
-Designed to optimize traffic flow using intelligent decision-making.
+### 🚦 **AI-based Traffic Control System**
+*Intelligent Traffic Flow Optimization*
+- Real-time traffic pattern analysis
+- ML-driven decision making for optimal flow
+- Scalable architecture for smart city applications
 
-### 🔹 LowMind  
-My **Deep Learning Framework**  
+### 🧠 **LowMind**
+*Deep Learning Framework*
 ```bash
 pip install lowmind
 ```
+Simplified deep learning tools for rapid prototyping and experimentation.
 
-🔹 LiteCV
-
-My open-source computer vision library for Python. Built to make CV tasks lightweight, accessible, and easy to integrate into other projects.
-
+### 👁️ **LiteCV** (Open Source)
+*Lightweight Computer Vision Library for Python*
 ```bash
 pip install litecv
 ```
+A minimal, accessible CV library designed for easy integration into projects. Built for developers who need powerful vision capabilities without the overhead.
 
 ---
 
-🎯 Interests
+## 🛠️ Development Environment
 
-· Data Visualization
-· Artificial Intelligence
-· System Design
-· Building real-world, usable products
-· Open Source (creating and maintaining my own packages)
+**Desktop Setup:**
+- VS Code, Python IDEs, Android Studio, Cursor
+
+**Mobile Setup:**
+- Termux, Pydroid 3, Acode Editor, Replit, Google Colab
+- *Because development can start anywhere*
 
 ---
 
-📌 Always learning. Always building.
-— Dhaval Gameti
+## 🎓 Interests & Expertise
+
+- **Data Science & Visualization** – Turning raw data into actionable insights
+- **Artificial Intelligence & ML** – Building intelligent systems
+- **System Design & Architecture** – Scalable, maintainable solutions
+- **Product Development** – From concept to production
+- **Open Source** – Creating and maintaining reusable libraries
+
+---
+
+## 📈 My Philosophy
+
+> "Always learning. Always building."
+
+I believe in continuous improvement and practical problem-solving. Every project is an opportunity to learn new technologies, refine existing skills, and contribute value to the developer community.
+
+---
+
+## 🔗 Connect & Collaborate
+
+- **GitHub:** [dhaval-gameti](https://github.com/dhaval-gameti)
+- **Open to:** Collaboration, Open Source Contributions, Product Development
+
+---
+
+## 📝 Note
+
+This README serves as my GitHub profile bio. For my interactive portfolio and project details, visit my [portfolio website](https://dhaval-gameti.github.io).
 
